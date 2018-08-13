@@ -1,0 +1,4 @@
+{
+  "baseApiUrl": "https://api.uber.com/v1.2",
+  "baseOauthUrl": "https://login.uber.com/oauth/v2"
+}
